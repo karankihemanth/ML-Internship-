@@ -1,4 +1,5 @@
 🍔 Fast Food Market Segmentation Analysis
+
 📋 Project Overview
 This project implements a market segmentation analysis for the fast food industry using Python. The analysis follows the Ten Steps of Market Segmentation as outlined in the "Market Segmentation Analysis" book. It leverages data-driven methods like clustering and PCA to identify and profile customer segments effectively.
 
