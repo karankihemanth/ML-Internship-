@@ -34,21 +34,6 @@ sklearn: PCA and clustering algorithms 🤖
 ├── mcdonalds.csv            # Input dataset (placeholder for real data)
 ├── README.md                # Project documentation
 
-⚙️ Setup Instructions
-Clone the Repository:
-
-git clone https://github.com/your-username/fast-food-segmentation.git
-cd fast-food-segmentation
-Install Dependencies:
-
-pip install -r requirements.txt
-Run the Script:
-
-Open the Fast_Food_Case_Study.py file in Google Colab or your local IDE.
-Ensure the mcdonalds.csv file is in the same directory.
-Execute the script to generate results and visualizations.
-🌟 Key Insights
-Customers were segmented into 4 distinct groups based on their preferences.
 Visualizations like perceptual maps and pair plots provided insights into customer behaviors.
 Target segments were identified, and actionable marketing strategies were proposed.
 🤝 Contributions
@@ -56,9 +41,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-📧 Contact
-For any questions or feedback, reach out to this email.
 
 🌟 Give a Star!
 If you found this project helpful, give it a ⭐ on GitHub!
