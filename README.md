@@ -7,40 +7,39 @@ The code is designed to be Google Colab-compatible, enabling easy execution and 
 
 🔍 Features
 
-Data Collection: Load and preprocess real-world fast food customer data via CSV.
+1.Data Collection: Load and preprocess real-world fast food customer data via CSV.
 
-Perceptual Mapping: Use PCA to visualize customer preferences.
+2.Perceptual Mapping: Use PCA to visualize customer preferences.
 
-Clustering: Identify market segments using k-means clustering.
+3.Clustering: Identify market segments using k-means clustering.
 
-Segment Profiling: Analyze segment-specific characteristics.
+4.Segment Profiling: Analyze segment-specific characteristics.
 
-Targeting: Evaluate and select segments for customized marketing.
+5.Targeting: Evaluate and select segments for customized marketing.
 
-Marketing Mix Development: Propose tailored strategies for selected segments.
+6.Marketing Mix Development: Propose tailored strategies for selected segments.
 
 🚀 Steps Implemented
 
-Deciding (Not) to Segment: Strategic decision-making.
+1.Deciding (Not) to Segment: Strategic decision-making.
 
-Specifying Ideal Target Segment: Define criteria for target customer segments.
+2.Specifying Ideal Target Segment: Define criteria for target customer segments.
 
-Collecting Data: Load data using pandas.read_csv.
+3.Collecting Data: Load data using pandas.read_csv.
 
-Exploring Data: Preprocess and clean data for analysis.
+4.Exploring Data: Preprocess and clean data for analysis.
 
+5.Extracting Segments: Cluster data into segments using k-means.
 
-Extracting Segments: Cluster data into segments using k-means.
+6.Profiling Segments: Identify defining features of each segment.
 
-Profiling Segments: Identify defining features of each segment.
+7.Describing Segments: Visualize and describe segment characteristics.
 
-Describing Segments: Visualize and describe segment characteristics.
+8.Selecting Target Segments: Evaluate segments based on predefined metrics.
 
-Selecting Target Segments: Evaluate segments based on predefined metrics.
+9.Customizing Marketing Mix: Develop marketing strategies tailored to the chosen segment.
 
-Customizing Marketing Mix: Develop marketing strategies tailored to the chosen segment.
-
-Evaluation and Monitoring: Plan continuous monitoring and adjustments.
+10.Evaluation and Monitoring: Plan continuous monitoring and adjustments.
 
 📊 Technologies Used
 
