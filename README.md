@@ -58,7 +58,9 @@ sklearn: PCA and clustering algorithms 🤖
 
 📂 Directory Structure
 ├── Fast_Food_Case_Study.py  # Main analysis script
+
 ├── mcdonalds.csv            # Input dataset (placeholder for real data)
+
 ├── README.md                # Project documentation
 
 Visualizations like perceptual maps and pair plots provided insights into customer behaviors.
